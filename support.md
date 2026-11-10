@@ -1,2 +1,3 @@
-contact : /oldcontact
-opening : 10:00
+days : monday to friday
+contact : /contact
+opening : 09:00
