@@ -1,2 +1,2 @@
-contact : /oldcontact
-opening : 10:00
+contact : /contact
+opening : 09:00
